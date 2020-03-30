@@ -1,0 +1,1 @@
+{"version":3,"file":"blank.component.js","sourceRoot":"","sources":["../../../../../../src/app/layouts/blank/blank.component.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAO1C,IAAa,cAAc,GAA3B,MAAa,cAAc;CAAG,CAAA;AAAjB,cAAc;IAL1B,SAAS,CAAC;QACT,QAAQ,EAAE,kBAAkB;QAC5B,WAAW,EAAE,wBAAwB;QACrC,SAAS,EAAE,EAAE;KACd,CAAC;GACW,cAAc,CAAG;SAAjB,cAAc"}
